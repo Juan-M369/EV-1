@@ -1,20 +1,37 @@
 p {
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 
 #parrafo_principal {
-    color: green;
+    color: rgb(0, 0, 0);
 }
 
-h3.h333 {
-    color: rgb(101, 0, 101);
+#Bienvenidos {
+    color: rgb(0, 0, 0);
 }
 
-h3.h222 {
-    color: rgb(101, 0, 101)
-    outline 1px solid red;
+#Introduccion_de_Pagina {
+    color: rgb(0, 0, 0)
+    outline 1px solid rgb(0, 0, 0);
 }
 
 a[href*="Video Youtube"] {
     background-color: brown;
+}
+
+.El_Motor_de_Induccion{
+    background-color:rgb(224, 255, 255);
+    color:indigo
+}
+.La_Corriente_Alterna{
+    background-color:rgb(254, 187, 209);
+    color:indigo
+}
+.El_Transformador_de_Corriente{
+    background-color:rgb(254, 187, 209);
+    color:indigo
+}
+.La_Radio{
+    background-color:rgb(224, 255, 255);
+    color:indigo
 }
